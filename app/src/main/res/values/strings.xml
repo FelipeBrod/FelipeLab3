@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">FelipeLab3</string>
+    <string name="Fragment1">FelipeFragment</string>
+    <string name="Fragment2">RodriguesFragment</string>
+    <string name="Fragment3">S301032408Fragement</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
