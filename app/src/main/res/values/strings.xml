@@ -4,5 +4,7 @@
     <string name="Fragment2">RodriguesFragment</string>
     <string name="Fragment3">S301032408Fragement</string>
     <!-- TODO: Remove or change this placeholder text -->
-    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="name">FelipeRodrigues 301032048</string>
+    <string name="AccessCamera">Access Camera</string>
+    <string name="devName">Felipe Rodrigues</string>
 </resources>

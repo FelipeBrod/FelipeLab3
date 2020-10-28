@@ -37,7 +37,7 @@ public class FelipeActivity extends AppCompatActivity {
 
 
         FragmentTransaction transaction = getSupportFragmentManager().beginTransaction();
-        transaction.replace(R.id.frameLayout, felipeFragment); //which frag and where
+        transaction.replace(R.id.frameLayout, rodriguesFragment); //which frag and where
         transaction.commit(); //finalizing transactions
 
         frag1 = findViewById(R.id.buttonFelipeFrag);

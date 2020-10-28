@@ -3,12 +3,15 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".FelipeFragment">
+    tools:context=".fragments.FelipeFragment">
 
-    <!-- TODO: Update blank fragment layout -->
     <TextView
+        android:id="@+id/DevName"
         android:layout_width="match_parent"
-        android:layout_height="match_parent"
-        android:text="FelipeFragment" />
+        android:layout_height="130dp"
+        android:text="@string/name"
+        android:textAlignment="center"
+        android:textColor="@color/titleColor"
+        android:textSize="24sp" />
 
 </FrameLayout>

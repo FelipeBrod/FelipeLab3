@@ -6,9 +6,12 @@
     tools:context=".fragments.S301032048Fragment">
 
     <!-- TODO: Update blank fragment layout -->
+
     <TextView
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:text="S3010" />
-
+        android:text="@string/devName"
+        android:textSize="30sp"
+        android:layout_gravity="center"
+        android:rotation = "45"/>
 </FrameLayout>
