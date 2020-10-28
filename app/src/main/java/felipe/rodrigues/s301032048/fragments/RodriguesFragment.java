@@ -10,11 +10,6 @@ import android.view.ViewGroup;
 
 import felipe.rodrigues.s301032048.R;
 
-/**
- * A simple {@link Fragment} subclass.
- * Use the {@link RodriguesFragment#newInstance} factory method to
- * create an instance of this fragment.
- */
 public class RodriguesFragment extends Fragment {
 
 

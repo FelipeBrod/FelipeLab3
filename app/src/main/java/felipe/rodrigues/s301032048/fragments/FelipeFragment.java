@@ -13,7 +13,6 @@ import felipe.rodrigues.s301032048.R;
 public class FelipeFragment extends Fragment {
 
 
-
     public FelipeFragment() {
         // Required empty public constructor
     }
